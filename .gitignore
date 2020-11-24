@@ -1,0 +1,8 @@
+# ignorar archivos checkpoints
+.ipynb_checkpoints
+
+# ignorar archivos en el directorio /.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ignora subdirectorio /data
+data/
