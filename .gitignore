@@ -6,3 +6,7 @@
 
 # ignora subdirectorio /data
 data/
+
+
+# ignora subdirectorio /datasets
+datasets/
