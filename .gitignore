@@ -10,3 +10,4 @@ data/
 
 # ignora subdirectorio /datasets
 datasets/
+fix.py
